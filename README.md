@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **android advance concept**
 
-- 💬 Ask me about **App Development, DSA, Firebase, Web Development**
+- Skills: **App Dev, Jetpack Compoes, Front-end Dev, DSA, Firebase, Web Dev**
 
-- 📫 Reach me **arjunkumar9693898775@gmail.com** +918271627510
+- 📫**arjunkumar9693898775@gmail.com** +918271627510
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
