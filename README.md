@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **android advance concept**
 
-- 💬 Ask me about **App Dev, DSA, Firebase, Web Dev**
+- 💬 Ask me about **App Development, DSA, Firebase, Web Development**
 
-- 📫 How to reach me **arjunkumar9693898775@gmail.com**
+- 📫 Reach me **arjunkumar9693898775@gmail.com** +918271627510
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
